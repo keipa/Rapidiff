@@ -1,0 +1,1 @@
+powershell Get-Clipboard > A.diff
